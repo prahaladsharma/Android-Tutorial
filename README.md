@@ -20,6 +20,11 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 
 ✅ And Many More......
 
+## Jetpack Compose Learning Resources
+
+- [Data Class](https://github.com/prahaladsharma/DataClass-and-Usages) - Detailed tutorial on Data Classes for Android apps.
+
+
 
 📂 How to Use This Repository?
 
@@ -34,4 +39,6 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 📌 Start Learning Today! Check out the tutorials & let’s build amazing Android apps together! 💡
 
 📢 Got any questions or suggestions? Feel free to contribute or open an issue! 🚀
+
+
 
