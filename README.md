@@ -25,7 +25,7 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [Data Class](https://github.com/prahaladsharma/DataClass-and-Usages) - Detailed tutorial on Data Classes for Android Apps.
 - [Enum Class](https://medium.com/@prahaladsharma4u/enum-in-kotlin-8ecc41f1af28) - Detailed tutorial on Enum class for Android Apps.
 - [Sealed Class](https://medium.com/@prahaladsharma4u/sealed-class-e81a316a43df) - Detailed tutorial on Sealed classes for Android Apps.
-- [Delegation in Kotlin](https://medium.com/@prahaladsharma4u/delegation-in-kotlin-c569e5066695) - Detailed .tutorial on Delegation in Kotlin
+- [Delegation in Kotlin](https://medium.com/@prahaladsharma4u/delegation-in-kotlin-c569e5066695) - Detailed tutorial on Delegation in Kotlin
 
 
 📂 How to Use This Repository?
