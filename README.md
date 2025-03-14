@@ -26,6 +26,7 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [Enum Class](https://medium.com/@prahaladsharma4u/enum-in-kotlin-8ecc41f1af28) - Detailed tutorial on Enum class for Android Apps.
 - [Sealed Class](https://medium.com/@prahaladsharma4u/sealed-class-e81a316a43df) - Detailed tutorial on Sealed classes for Android Apps.
 - [Delegation in Kotlin](https://medium.com/@prahaladsharma4u/delegation-in-kotlin-c569e5066695) - Detailed tutorial on Delegation in Kotlin
+- [Generics in Kotlin](https://medium.com/@prahaladsharma4u/generics-in-kotlin-4f983b39ae7e) - Detailed tutorial on Generics in Kotlin.
 
 
 📂 How to Use This Repository?
