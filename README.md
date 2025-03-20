@@ -27,8 +27,8 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [Sealed Class](https://medium.com/@prahaladsharma4u/sealed-class-e81a316a43df) - Detailed tutorial on Sealed classes for Android Apps.
 - [Delegation in Kotlin](https://medium.com/@prahaladsharma4u/delegation-in-kotlin-c569e5066695) - Detailed tutorial on Delegation in Kotlin
 - [Generics in Kotlin](https://medium.com/@prahaladsharma4u/generics-in-kotlin-4f983b39ae7e) - Detailed tutorial on Generics in Kotlin.
-- [Memory Management in Android](https://medium.com/@prahaladsharma4u/memory-management-in-android-4f0296268b13) - Detailed tutorial on Memory Management in Android
-
+- [Memory Management in Android](https://medium.com/@prahaladsharma4u/memory-management-in-android-4f0296268b13) - Detailed tutorial on Memory Management in Android.
+- [Android Build Varients](https://medium.com/@prahaladsharma4u/android-build-varients-04132e9da64a) Detailed tutorial on Android Build Varients in Android.
 
 📂 How to Use This Repository?
 
