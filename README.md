@@ -34,6 +34,7 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [Dagger2](https://medium.com/@prahaladsharma4u/dependency-injection-dagger-2-67a05de961ad) Dagger2 Tutorial in Android.
 - [Flow - Part-1](https://medium.com/@prahaladsharma4u/flow-add7041cf1e5) Detailed Tutorial on Flow Part-1 using Android.
 - [Flow - Part-2](https://medium.com/@prahaladsharma4u/introduction-to-kotlin-flow-basic-concepts-and-transformations-part-2-97f58bea3f78) Detailed Tutorial on Flow Part-2 using Android
+- [Jetpack Compose Limitation](https://medium.com/@prahaladsharma4u/enhancing-jetpack-compose-whats-next-for-android-s-modern-ui-toolkit-26df92e8f70a) Jetpack Compose Limitation using Android.
 
 
 📂 How to Use This Repository?
