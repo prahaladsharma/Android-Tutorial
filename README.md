@@ -38,6 +38,7 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [JetPack Compose Toolkit](https://medium.com/@prahaladsharma4u/enhancing-jetpack-compose-whats-next-for-android-s-modern-ui-toolkit-26df92e8f70a) JetPack Compose Toolkit UI.
 - [Mastering Null Safety in Kotlin for Robust Android Development](https://medium.com/@prahaladsharma4u/introduction-mastering-null-safety-in-kotlin-for-robust-android-development-ae3174c639ba) Mastering Null Safety in Kotlin for Robust Android Development.
 - [Delegation in Kotlin](https://medium.com/@prahaladsharma4u/delegation-in-kotlin-c569e5066695) Delegation in Kotlin.
+- [Securing the Android Activity Life-Cycle in Banking Apps](https://medium.com/@prahaladsharma4u/securing-the-android-activity-life-cycle-in-banking-apps-f1ccb7cd735b) Securing the Android Activity Life-Cycle in Banking Apps.
 
 
 📂 How to Use This Repository?
