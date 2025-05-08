@@ -40,6 +40,7 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [Delegation in Kotlin](https://medium.com/@prahaladsharma4u/delegation-in-kotlin-c569e5066695) Delegation in Kotlin.
 - [Securing the Android Activity Life-Cycle in Banking Apps](https://medium.com/@prahaladsharma4u/securing-the-android-activity-life-cycle-in-banking-apps-f1ccb7cd735b) Securing the Android Activity Life-Cycle in Banking Apps.
 - [Android Build Varients](https://medium.com/@prahaladsharma4u/android-build-varients-04132e9da64a) Android Build Varients.
+- [Jetpack Compose LifeCycle](https://medium.com/@prahaladsharma4u/jetpack-compose-lifecycle-97107fd7bcc7)  Jetpack Compose LifeCycle
 
 
 📂 How to Use This Repository?
