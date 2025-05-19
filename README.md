@@ -44,7 +44,7 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [Extension Functions in Kotlin](https://medium.com/@prahaladsharma4u/extension-functions-in-kotlin-4a06be4b6c7b) Extension Functions in Kotlin.
 - [Android 16 Behavior changes: all apps](https://medium.com/@prahaladsharma4u/android-16-behavior-changes-all-apps-23b8f39824c3) Android 16 Behavior changes: all apps
 - [JSON With Retrofit](https://medium.com/@prahaladsharma4u/how-to-use-a-local-json-file-with-retrofit-in-android-studio-part1-cc8591b7716f) How to Use a Local JSON File with Retrofit in Android Studio (Part1)
-
+  
 
 📂 How to Use This Repository?
 
