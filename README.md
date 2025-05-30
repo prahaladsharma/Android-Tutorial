@@ -46,6 +46,8 @@ Welcome to this beginner-friendly Android tutorial, designed to help you learn t
 - [JSON With Retrofit](https://medium.com/@prahaladsharma4u/how-to-use-a-local-json-file-with-retrofit-in-android-studio-part1-cc8591b7716f) How to Use a Local JSON File with Retrofit in Android Studio (Part1)
 - [Handle Multiple Local JSON Files in Retrofit (Part-2)](https://medium.com/@prahaladsharma4u/handle-multiple-local-json-files-in-retrofit-bdfe521f3483) Handle Multiple Local JSON Files in Retrofit (Part-2)
 
+
+
   
   
 
